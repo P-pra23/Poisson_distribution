@@ -73,7 +73,8 @@ else:
 ```
 # Output : 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6740fe77-ccf2-4877-a06a-16f3d13c8334)
+
 
 
 # Results
